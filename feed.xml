@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50 KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Mon, 02 Nov 2026 16:33:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:39:37 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50 KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,17 +15,6 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
-    <item>
-      <title>[테스트] 무음</title>
-      <description>test</description>
-      <itunes:summary>test</itunes:summary>
-      <pubDate>Mon, 02 Nov 2026 16:33:24 +0900</pubDate>
-      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/test-0001.mp3" length="12429" type="audio/mpeg" />
-      <guid isPermaLink="false">test-0001</guid>
-      <itunes:duration>3</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
     <item>
       <title>[저녁] 11/1(일) 美는 AI 공급자만 팔았다, 코스피 월요일 갭 시험</title>
       <description>금요일 밤 미국 정규장은 나스닥 −2.86%, S&amp;P 500 −1.82%로 밀렸지만 AI 전체를 판 것이 아니라 가이던스가 꺾인 공급자(인텔·엔비디아)와 자본지출을 늘린 수요자(아마존)를 갈라서 처리했다. 코스피 5,731(−3.48%)은 이 갈림을 아직 반영하지 않은 금요일 종가다. 한국 인기 상위 종목 다수가 반도체 공급자라 월요일 갭은 불리한 쪽 절반을 소화하는 시험이 된다. 분석·관찰이며 투자 권유가 아님.</description>
