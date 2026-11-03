@@ -4,17 +4,26 @@
     <title>Valley 브리핑</title>
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
-    <description>매일 아침 08:30·저녁 20:50 KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 03 Nov 2026 20:57:21 +0900</lastBuildDate>
+    <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
+    <lastBuildDate>Tue, 03 Nov 2026 23:21:01 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
-    <itunes:summary>매일 아침 08:30·저녁 20:50 KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
+    <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
     <itunes:image href="https://jnnkyng.github.io/vb-feed-7k2m/cover.png" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[린치] 11/3(화) 삼성전기 — 경기순환</title>
+      <description>삼성전기는 카메라 회사에서 AI 서버의 두 병목인 고용량 MLCC와 FC-BGA 기판을 쥔 부품 회사로 바뀌는 중이며 3분기 영업이익률 18.4%로 10년 내 최고 마진을 기록했다. 이야기가 성공하려면 AI 칩당 MLCC 탑재량 증가와 장기계약이 2027~2028년 업계 증설 물량을 흡수해 판가가 버텨야 한다. 함정은 10년 EPS가 보여주듯 이익이 가격의 파도였다는 점, 그리고 이익 정점에서 PER이 싸 보이는 순간이 가장 위험하다는 점이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-03-lynch.mp3" length="3425760" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-03-lynch</guid>
+      <pubDate>Tue, 03 Nov 2026 23:20:00 +0900</pubDate>
+      <itunes:duration>571</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/3(화) 기관마저 등 돌린 AI 하드웨어 투매, 코스피 −3.6%</title>
       <description>오늘 하락의 동력은 AI 수요 둔화보다 AI 투자 자금의 출처 변화였다. 오라클·메타·알파벳의 대규모 조달과 앤트로픽의 인프라 약정이 겹치며 시장은 AI를 신용·희석 이야기로 재평가했다. 미국은 충격이 반도체·광통신에 국한됐지만 한국은 반도체 편중과 외국인·기관 동반 매도로 코스피 −3.59%라는 증폭된 형태로 받았다.</description>
