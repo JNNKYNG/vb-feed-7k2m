@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50 KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 03 Nov 2026 10:56:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:57:21 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50 KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -16,12 +16,12 @@
       <itunes:category text="Investing" />
     </itunes:category>
     <item>
-      <title>[저녁] 11/3(화) AI 자금조달 우려 재점화, 코스피 장중 −2.5%</title>
-      <description>유가 급락과 장기금리 하락이라는 우호적 매크로에도 지수가 밀린 원인은 AI 투자의 자금조달 방식이다. 오라클의 주식·채권 동시 발행, 마벨의 전액 주식 인수, 빅테크 회사채가 몰리며 시장은 실적보다 희석·마진·신용을 크게 반영했다. 이 압력이 국내로 넘어와 코스피는 전일 반등을 장중 2%대 하락으로 되돌렸다.</description>
-      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-03-pm.mp3" length="2300544" type="audio/mpeg" />
+      <title>[저녁] 11/3(화) 기관마저 등 돌린 AI 하드웨어 투매, 코스피 −3.6%</title>
+      <description>오늘 하락의 동력은 AI 수요 둔화보다 AI 투자 자금의 출처 변화였다. 오라클·메타·알파벳의 대규모 조달과 앤트로픽의 인프라 약정이 겹치며 시장은 AI를 신용·희석 이야기로 재평가했다. 미국은 충격이 반도체·광통신에 국한됐지만 한국은 반도체 편중과 외국인·기관 동반 매도로 코스피 −3.59%라는 증폭된 형태로 받았다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-03-pm.mp3" length="1823904" type="audio/mpeg" />
       <guid isPermaLink="false">2026-11-03-pm</guid>
-      <pubDate>Tue, 03 Nov 2026 10:56:00 +0900</pubDate>
-      <itunes:duration>383</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 20:56:00 +0900</pubDate>
+      <itunes:duration>304</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
