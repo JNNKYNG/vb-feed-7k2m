@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:09:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:54:57 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -16,12 +16,21 @@
       <itunes:category text="Investing" />
     </itunes:category>
     <item>
+      <title>[린치] 11/4(수) SK하이닉스 — 경기순환</title>
+      <description>SK하이닉스는 AI 서버용 HBM을 가장 먼저, 가장 많이 만들며 3분기 영업이익률 80%와 순현금 98.7조 원을 기록했다. 이야기가 이어지려면 장기계약이 물량뿐 아니라 가격까지 지키고 2027년 업계 증설이 AI 수요를 앞지르지 않아야 한다. 함정은 본질이 경기순환주라는 점으로, 선행 PER 3배 안팎은 싸다는 뜻이 아니라 시장이 정점을 의심한다는 신호일 수 있다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-04-lynch.mp3" length="3516768" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-04-lynch</guid>
+      <pubDate>Wed, 04 Nov 2026 21:54:00 +0900</pubDate>
+      <itunes:duration>586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>[저녁] 11/4(수) 장중 −4% 딛고 반등한 코스피, 배터리·태양광 순환매</title>
       <description>오늘 시장을 움직인 변수는 AI 수요가 아니라 누가 AI 증설의 비용을 대고 누가 허가하느냐였다. AMD·슈퍼마이크로·아리스타가 가이던스를 올렸지만 코스피는 미국 중간선거발 데이터센터 규제 우려로 장중 −4%까지 밀린 뒤 배터리·태양광·통신 순환매로 반등했다. 메타의 고금리 회사채 조달과 공급 부족·공급 과잉 논쟁까지, 수요보다 증설의 조건이 가격을 정하는 국면이다.</description>
-      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-04-pm.mp3" length="3302733" type="audio/mpeg" />
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-04-pm.mp3" length="3628749" type="audio/mpeg" />
       <guid isPermaLink="false">2026-11-04-pm</guid>
-      <pubDate>Wed, 04 Nov 2026 20:09:00 +0900</pubDate>
-      <itunes:duration>550</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 20:56:00 +0900</pubDate>
+      <itunes:duration>605</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
