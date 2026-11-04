@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Wed, 04 Nov 2026 11:56:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:09:36 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/4(수) 장중 −4% 딛고 반등한 코스피, 배터리·태양광 순환매</title>
+      <description>오늘 시장을 움직인 변수는 AI 수요가 아니라 누가 AI 증설의 비용을 대고 누가 허가하느냐였다. AMD·슈퍼마이크로·아리스타가 가이던스를 올렸지만 코스피는 미국 중간선거발 데이터센터 규제 우려로 장중 −4%까지 밀린 뒤 배터리·태양광·통신 순환매로 반등했다. 메타의 고금리 회사채 조달과 공급 부족·공급 과잉 논쟁까지, 수요보다 증설의 조건이 가격을 정하는 국면이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-04-pm.mp3" length="3302733" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-04-pm</guid>
+      <pubDate>Wed, 04 Nov 2026 20:09:00 +0900</pubDate>
+      <itunes:duration>550</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/4(수) AMD·아리스타 가이던스 상향, AI 수요 재확인</title>
       <description>미국은 반도체 반등으로 나스닥 +0.83%, S&amp;P 500 +0.36%, 다우 −0.38% 혼조 마감. 장 마감 후 AMD(데이터센터 +97%, 4분기 가이던스 170억 달러)·아리스타·슈퍼마이크로·아스테라랩스가 모두 가이던스를 올려 AI 수요가 재확인됐다. 반면 미 10년물은 4.95%로 올랐고 유가는 WTI 96달러로 이틀째 하락, 코스피는 09:00 5,790(+2.5%)으로 출발했다.</description>
