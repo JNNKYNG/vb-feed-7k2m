@@ -5,16 +5,25 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:17:21 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:56:36 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
-    <itunes:image href="https://jnnkyng.github.io/vb-feed-7k2m/cover.png" />
+    <itunes:image href="https://jnnkyng.github.io/vb-feed-7k2m/cover.png?v=20261104" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/4(수) AMD·아리스타 가이던스 상향, AI 수요 재확인</title>
+      <description>미국은 반도체 반등으로 나스닥 +0.83%, S&amp;P 500 +0.36%, 다우 −0.38% 혼조 마감. 장 마감 후 AMD(데이터센터 +97%, 4분기 가이던스 170억 달러)·아리스타·슈퍼마이크로·아스테라랩스가 모두 가이던스를 올려 AI 수요가 재확인됐다. 반면 미 10년물은 4.95%로 올랐고 유가는 WTI 96달러로 이틀째 하락, 코스피는 09:00 5,790(+2.5%)으로 출발했다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-04-am.mp3" length="1834128" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-04-am</guid>
+      <pubDate>Wed, 04 Nov 2026 09:10:00 +0900</pubDate>
+      <itunes:duration>306</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[린치] 11/3(화) 삼성전기 — 경기순환</title>
       <description>삼성전기는 카메라 회사에서 AI 서버의 두 병목인 고용량 MLCC와 FC-BGA 기판을 쥔 부품 회사로 바뀌는 중이며 3분기 영업이익률 18.4%로 10년 내 최고 마진을 기록했다. 이야기가 성공하려면 AI 칩당 MLCC 탑재량 증가와 장기계약이 2027~2028년 업계 증설 물량을 흡수해 판가가 버텨야 한다. 함정은 10년 EPS가 보여주듯 이익이 가격의 파도였다는 점, 그리고 이익 정점에서 PER이 싸 보이는 순간이 가장 위험하다는 점이다.</description>
