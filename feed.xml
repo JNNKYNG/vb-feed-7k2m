@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Thu, 05 Nov 2026 10:31:13 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:02:53 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/5(목) 데이터센터 공포에 코스피 5% 급락·사이드카</title>
+      <description>같은 선거 결과가 AI 설비를 이미 가진 빅테크와 새로 지어 줘야 매출이 나는 공급망을 정반대로 갈랐다. 공급망 비중이 높은 한국은 하락만 받아 코스피 -5.28%, 외국인 3조원 초과 순매도로 끝났다. 시장은 증설 종료를 가격에 넣었지만 GPU 임대료 상승과 신규 장기 임대 계약은 수요보다 착공 시점과 조달 비용이 문제임을 가리킨다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-05-pm.mp3" length="3256797" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-05-pm</guid>
+      <pubDate>Thu, 05 Nov 2026 21:02:00 +0900</pubDate>
+      <itunes:duration>543</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/5(목) 블루웨이브에 미국은 올랐는데 메모리는 급락</title>
       <description>민주당의 상·하원 압승과 이란 종전 기대로 유가와 미 10년물 금리가 함께 내려 S&amp;P 500이 1.58% 올랐지만 반도체 섹터는 2.7% 내렸다. 하락 논리는 금리가 아니라 텍사스발 데이터센터 건설 중단 공약에 따른 증설 지연과 메모리·전력설비 수요 둔화였다. 오늘 오전 코스피는 4%대 급락 중이며 SK하이닉스·삼성전자가 낙폭을 이끌고 있다.</description>
