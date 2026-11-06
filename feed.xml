@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Fri, 06 Nov 2026 08:41:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:02:14 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/6(금) AI 투매 이틀째, 코스피 6% 급락·서킷브레이커</title>
+      <description>AI 데이터센터 매도가 이틀째 이어지며 질문이 '누가 지연 비용을 지느냐'에서 'AI 설비투자 전체의 회수 속도'로 넓어졌고, 호실적 종목도 주가를 지키지 못했다. 공급망 비중이 큰 한국은 서킷브레이커와 함께 코스피가 6% 넘게 빠져 이틀 누적 약 11% 하락했다. 반대편에서는 11/9 자사주 블랙아웃 해제, 비어 있는 추세추종 포지션, 크게 낮아진 반도체 밸류에이션을 근거로 수급이 먼저 돌아올 수 있다고 보며, 다음 주는 이익 전망과 수급 중 무엇이 먼저 움직이느냐의 싸움이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-06-pm.mp3" length="3410496" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-06-pm</guid>
+      <pubDate>Fri, 06 Nov 2026 21:01:00 +0900</pubDate>
+      <itunes:duration>568</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/6(금) AI 투매 미국으로 번져, 반도체지수 −12%</title>
       <description>한국을 먼저 때린 데이터센터 공포가 밤사이 미국으로 번져 반도체지수가 12% 넘게, 나스닥이 5.5% 하락했다. 마이크로소프트의 외부 데이터센터 계약 심사 강화와 AI 인프라 기업 신용 우려가 겹치며 실적이 좋았던 종목까지 두 자릿수로 밀렸다. 금리는 내렸지만 유가는 이란 긴장으로 다시 90달러를 넘었다.</description>
