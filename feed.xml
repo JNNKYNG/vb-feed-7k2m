@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Fri, 06 Nov 2026 21:54:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:55:46 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,24 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/7(토) 휴장 주말, 미국만 되돌리고 한국은 상처 안고 월요일로</title>
+      <description>금요일 미국은 10월 고용 +16.5만(예상 +6.5만)과 임금 0.4% 상승으로 금리가 올랐는데도 반도체가 반등해, 금리 하나로는 이번 매도를 설명하기 어렵다는 신호를 남겼다. 한국은 그 반등 전에 마감해 KOSPI 200이 1주 −12.95%, 1개월 −28.53%로 미국과의 격차를 안은 채 주말을 맞았다. 월요일의 질문은 미국이 되돌린 만큼 한국도 되돌리는가, 아니면 한국만의 할인이 남는가다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-07-pm.mp3" length="3048429" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-07-pm</guid>
+      <pubDate>Sat, 07 Nov 2026 22:55:00 +0900</pubDate>
+      <itunes:duration>508</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[아침] 11/7(토) 반도체 4% 반등, 고용 서프라이즈에 인상 확률 78%</title>
+      <description>금요일 미국은 나스닥 1.09% 상승, 필라델피아 반도체지수 4.21% 반등으로 이틀 투매를 일부 되돌렸다. 10월 고용이 16만 5천 명으로 예상을 크게 웃돌며 10년물 4.87%, 12월 금리 인상 확률 78%로 올랐다. 금리 악재와 반도체 반등이 겹친 날이라, 월요일 한국 반도체가 이 반등을 얼마나 따라가는지가 핵심 관전 포인트다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-07-am.mp3" length="1120032" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-07-am</guid>
+      <pubDate>Sat, 07 Nov 2026 10:05:00 +0900</pubDate>
+      <itunes:duration>187</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[린치] 11/6(금) 버티브 홀딩스 — 경기순환</title>
       <description>버티브는 AI 데이터센터에 전기를 넣고 열을 빼는 장비를 가장 순수하게 파는 회사로, 수랭·고전압 직류로의 장비 세대교체 한가운데에 있다. 이야기가 이어지려면 클라우드 기업 설비투자가 2027~28년에도 늘고, 정치적 제동이 신규 허가에만 머물고, 쌓아 둔 재고와 선수금이 매출로 바뀌어야 한다. 함정은 이 이익이 2023년에야 생긴 사이클 이익이라는 점으로, 선행 PER 19배가 싸 보이는 지금이 경기순환주가 가장 덜 위험해 보이는 순간일 수 있다.</description>
