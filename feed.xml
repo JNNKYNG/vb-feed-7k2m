@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Mon, 09 Nov 2026 23:36:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:54:31 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/10(화) 유가 급락·반도체 반등, 나스닥 +2.74%</title>
+      <description>유가 급락과 반도체 반발 매수로 S&amp;P500 +2.35%, 나스닥 +2.74% 상승했고 엔비디아만 이사회 조사 착수로 4.28% 하락했다. 메모리·장비·광통신·전력이 동반 급등했지만 미 2년물 4.57%, 10년물 4.88%로 금리는 오히려 올랐다. 랠리의 동력은 금리 완화가 아니라 유가·지정학 완화와 AI 수요 재확인이며, 오늘 밤 10월 CPI가 그 지속 여부를 시험한다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-10-am.mp3" length="1566720" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-10-am</guid>
+      <pubDate>Tue, 10 Nov 2026 11:05:00 +0900</pubDate>
+      <itunes:duration>261</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/9(월) 반등에 매물 쏟아진 코스피, 알테오젠 −16%</title>
       <description>미국은 예상 2.5배 고용과 금리 상승에도 반도체를 되사며 올랐지만, 한국은 그 반등을 대형 반도체주 0.3~0.6% 정도만 받아들이고 코스피는 0.81% 내렸습니다. 개인이 반등을 매도 기회로 쓰고 외국인도 팔아 금융투자의 나흘 연속 순매수로도 막지 못한 수급 장세였습니다. 북해 원유 현물 웃돈이 사라져 유가 압력이 줄어든 만큼, 이번 주 승부는 화요일 밤 미국 근원 물가와 금리 경로로 넘어갔습니다.</description>
