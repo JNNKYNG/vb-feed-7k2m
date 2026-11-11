@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 10 Nov 2026 10:54:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:56:08 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/11(수) CPI 상회·금리 5%, 코어위브가 받친 반등</title>
+      <description>미국 10월 근원 소비자물가가 전월비 0.3%로 예상을 웃돌며 2년물이 하루 20bp 뛰고 10년물이 5%에 닿았고, 나스닥은 0.74% 내렸다. 장 마감 후 코어위브가 매출 168% 증가와 연간 가이던스 상향, 고객 선급금 유입 전망으로 AI 인프라 자금조달 우려를 상쇄했다. 한국장은 금리보다 이 현금흐름 재료를 택해 코스피 2.6%, 코스닥 5.6% 반등했다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-11-am.mp3" length="1721088" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-11-am</guid>
+      <pubDate>Thu, 12 Nov 2026 02:10:00 +0900</pubDate>
+      <itunes:duration>287</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/10(화) 유가 급락·반도체 반등, 나스닥 +2.74%</title>
       <description>유가 급락과 반도체 반발 매수로 S&amp;P500 +2.35%, 나스닥 +2.74% 상승했고 엔비디아만 이사회 조사 착수로 4.28% 하락했다. 메모리·장비·광통신·전력이 동반 급등했지만 미 2년물 4.57%, 10년물 4.88%로 금리는 오히려 올랐다. 랠리의 동력은 금리 완화가 아니라 유가·지정학 완화와 AI 수요 재확인이며, 오늘 밤 10월 CPI가 그 지속 여부를 시험한다.</description>
