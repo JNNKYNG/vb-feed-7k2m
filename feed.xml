@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Thu, 12 Nov 2026 01:58:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:05:01 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -22,6 +22,15 @@
       <guid isPermaLink="false">2026-11-11-am</guid>
       <pubDate>Thu, 12 Nov 2026 02:10:00 +0900</pubDate>
       <itunes:duration>287</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[린치] 11/11(수) 엔비디아 — 경기순환</title>
+      <description>엔비디아는 AI 데이터센터 연산 장비를 거의 혼자 공급하며 분기 매출을 1년 만에 두 배로 키웠지만 주가수익비율은 10년 중 가장 낮은 수준이다. 이야기가 이어지려면 빅테크 설비투자가 내년에도 늘고, 차세대 제품 전환이 마진 하락을 메우며, 크게 불어난 공급 약정과 재고가 매출로 소화돼야 한다. 함정은 재고가 먼저 쌓인 뒤 이익이 반토막 나는 과거 사이클의 반복과, 고객 금융으로 넓어진 대차대조표가 하강기에 손실을 키우는 경로다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-11-lynch.mp3" length="3760941" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-11-lynch</guid>
+      <pubDate>Thu, 12 Nov 2026 02:06:00 +0900</pubDate>
+      <itunes:duration>627</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
