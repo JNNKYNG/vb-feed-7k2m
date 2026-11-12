@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Thu, 12 Nov 2026 12:37:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:00:38 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/12(목) 엔비디아 CEO 리스크에 멈춘 반등</title>
+      <description>미국 정규장은 코어위브 실적이 AI 인프라 자금조달 우려를 덜며 반도체가 4.9% 반등했다. 그러나 장 마감 뒤 엔비디아 CEO 거취 보도가 나오며 코스피는 0.61%, 코스닥은 1.22% 하락했고 업종보다 실적에 따른 종목 차별화가 두드러졌다. CPI 이후 긴축 기대로 달러는 1년 반 고점, 엔화는 160엔 문턱이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-12-pm.mp3" length="3234240" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-12-pm</guid>
+      <pubDate>Thu, 12 Nov 2026 20:59:00 +0900</pubDate>
+      <itunes:duration>539</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/12(목) 엔비디아 시간외 −8%, 코어위브 랠리에 찬물</title>
       <description>코어위브 실적과 자금조달 설명이 AI 인프라 우려를 눌러 S&amp;P500 +1.27%, 나스닥100 +2.28%, 반도체 +4.9%로 반등했다. 그러나 장 마감 후 엔비디아가 CEO 관련 의혹과 이사회의 해임 준비 보도로 시간외 약 8% 하락했다. 미 국채 현물은 휴장이었고 달러인덱스는 2025년 4월 이후 최고, 달러/엔은 160엔 직전까지 올랐다.</description>
