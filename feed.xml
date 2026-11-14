@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Sat, 14 Nov 2026 22:20:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:23:20 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -22,6 +22,15 @@
       <guid isPermaLink="false">2026-11-14-am</guid>
       <pubDate>Sat, 14 Nov 2026 22:40:00 +0900</pubDate>
       <itunes:duration>218</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[저녁] 11/14(토) 물가는 식어도 금리 5.15%, AI 반도체 또 하락</title>
+      <description>미국 10월 생산자물가가 예상보다 낮게 나왔지만 미 10년물 금리는 5.15%에서 움직이지 않았다. 그 사이 AMD·코어위브·엔비디아 등 AI 반도체가 다시 밀리며 나스닥이 0.91% 내렸다. 최근 3개월 반도체 −17.4% 대 헬스케어 +12.6%로 이어진 방어주 우위 구도가 한 주 더 연장됐다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-14-pm.mp3" length="3224160" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-14-pm</guid>
+      <pubDate>Sat, 14 Nov 2026 22:22:00 +0900</pubDate>
+      <itunes:duration>537</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
