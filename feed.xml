@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Fri, 13 Nov 2026 21:54:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:20:35 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/14(토) AI 반도체 매도 확산, AMD −8.8%</title>
+      <description>금요일 미국장은 나스닥 −0.91%, S&amp;P 500 −0.40%, 다우 +0.10%로 마감했고 하락은 반도체에 몰렸다(반도체 ETF −3.65%, AMD −8.76%, 엔비디아 −2.11%). 미 10년물은 5.15% 근처에 머물러 금리가 반등을 받쳐주지 못했다. 엔비디아 경영 공백이 AI 하드웨어 업종 전반의 할인으로 번지는지가 월요일 한국 반도체 시가의 핵심 변수다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-14-am.mp3" length="1309104" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-14-am</guid>
+      <pubDate>Sat, 14 Nov 2026 22:40:00 +0900</pubDate>
+      <itunes:duration>218</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[린치] 11/13(금) 삼성전자 — 경기순환</title>
       <description>인공지능이 메모리를 빨아들이면서 삼성전자는 아홉 달 만에 과거 최고 연간 이익의 네 배를 벌었고, 200조 원 가까운 순현금과 장기계약이라는 새 갑옷을 입었습니다. 이 이야기가 계속되려면 내년에도 메모리 값이 떨어지지 않아야 하고, 장기계약이 하락기에도 가격을 지켜 줘야 합니다. 경기순환주의 낮은 주가수익비율은 역사적으로 싸다가 아니라 끝이 가깝다는 신호였습니다.</description>
