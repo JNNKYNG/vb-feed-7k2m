@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 17 Nov 2026 00:58:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:01:22 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[린치] 11/16(월) 앱러빈 — 고성장</title>
+      <description>앱러빈은 게임 회사에서 직원 900명이 84% 이익률을 내는 광고 엔진으로 변신했고, 3분기 실적으로 성장 엔진이 멈췄다는 의심을 일단 숫자로 걷어냈다. 이야기가 이어지려면 포화된 게임 광고를 넘어 전자상거래 광고주의 지출이 공시 숫자로 확인돼야 한다. 함정은 날짜를 약속할 수 없는 모델 개선 의존과, 데이터 관행 문제가 애플·구글 플랫폼 정책과 맞물릴 위험이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-16-lynch.mp3" length="3964176" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-16-lynch</guid>
+      <pubDate>Tue, 17 Nov 2026 01:00:00 +0900</pubDate>
+      <itunes:duration>661</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/16(월) D램 소송까지 겹친 반도체 투매, 코스피 5,100</title>
       <description>한국은 미국발 AI 반도체 할인을 몇 배로 키워 받았다. 금요일 미국 반도체 −3.4%에 코스피 −3.59%, 코스닥 −4.86%, SK하이닉스 −7.89%가 났고 메모리 3사 D램 담합 소송 기각 신청 거부 보도가 한국 고유 악재로 얹혔다. 호재 종목도 밀리고 연기금까지 매도에 선 것은 가격이 업종 단위 위험 축소로 정해지고 있다는 신호다.</description>
