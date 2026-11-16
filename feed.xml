@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Mon, 16 Nov 2026 15:15:36 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:58:21 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -16,12 +16,12 @@
       <itunes:category text="Investing" />
     </itunes:category>
     <item>
-      <title>[저녁] 11/16(월) 엔비디아 공백·금리 5.15%, 한국 반도체 증폭 하락</title>
-      <description>AI 인프라 매도는 수요보다 할인율과 신뢰 문제에서 왔다는 그림이 강하다. 엔비디아 경영 공백, 연준의 AI 금융안정 경고, 물가 하회에도 5.15%로 오른 미 10년물이 동시에 성장주를 눌렀고 한국은 이를 증폭해 받았다. 금은 투기 자금이 팔지만 중앙은행 매입이 하단을 받치는 구조다.</description>
-      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-16-pm.mp3" length="3510000" type="audio/mpeg" />
-      <guid isPermaLink="false">2026-11-16-pm</guid>
-      <pubDate>Mon, 16 Nov 2026 15:15:00 +0900</pubDate>
-      <itunes:duration>585</itunes:duration>
+      <title>[저녁] 11/16(월) D램 소송까지 겹친 반도체 투매, 코스피 5,100</title>
+      <description>한국은 미국발 AI 반도체 할인을 몇 배로 키워 받았다. 금요일 미국 반도체 −3.4%에 코스피 −3.59%, 코스닥 −4.86%, SK하이닉스 −7.89%가 났고 메모리 3사 D램 담합 소송 기각 신청 거부 보도가 한국 고유 악재로 얹혔다. 호재 종목도 밀리고 연기금까지 매도에 선 것은 가격이 업종 단위 위험 축소로 정해지고 있다는 신호다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-16-pm2.mp3" length="3393309" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-16-pm2</guid>
+      <pubDate>Tue, 17 Nov 2026 00:57:00 +0900</pubDate>
+      <itunes:duration>566</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
