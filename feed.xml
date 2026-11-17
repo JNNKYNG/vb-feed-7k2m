@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 17 Nov 2026 10:24:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:00:02 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/17(화) AI 수요 의심에 코스피 5,000선 붕괴</title>
+      <description>미국 국채금리와 유가가 내렸는데도 반도체가 5% 넘게 급락했습니다. 시장이 할인율보다 AI 투자 수요 자체의 하향 가능성에 값을 매기기 시작했고, 한국에서는 외국인의 대형 반도체 매도로 코스피가 9개월 만에 5,000선을 내줬습니다. 엔비디아 실적과 앤트로픽 상장이 이어지는 48시간 이벤트 구간, 미국 소매판매와 3분기 거장 매매까지 짚습니다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-17-pm.mp3" length="3197952" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-17-pm</guid>
+      <pubDate>Tue, 17 Nov 2026 20:59:00 +0900</pubDate>
+      <itunes:duration>533</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/17(화) AI 인프라 투매, 나스닥 조정 진입</title>
       <description>엔비디아 실적을 하루 앞두고 미국 AI 인프라주가 일제히 급락해 나스닥이 2.49% 내리며 고점 대비 10% 넘게 빠진 조정 국면에 들어섰다. 엔비디아 경영진 불확실성과 HBM·AI 가속기 장기 전망 하향 보도, 앤트로픽 상장의 자금 흡수 우려가 겹쳤다. 미 10년물은 5.12%로 거의 움직이지 않았고 WTI는 3% 넘게 내려 85달러대다.</description>
