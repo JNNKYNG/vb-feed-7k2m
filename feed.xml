@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 17 Nov 2026 21:00:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:39:45 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/18(수) 엔비디아 가이던스 상회, 시간외 반등</title>
+      <description>미국 증시는 4거래일 연속 하락해 S&amp;P500이 7개월 만에 200일선을 밑돌았고, 하락은 소프트웨어·금융·건강보험이 주도했다. 장 마감 후 엔비디아가 4분기 매출 가이던스 1,300억 달러로 컨센서스를 약 4% 웃돌고 공급 약정 증가분이 주로 다년 메모리 조달이라고 밝혀 시간외 반등했다. 금리는 소폭 내렸지만 핵심 소매판매와 자본재 수입물가는 인플레 압력이 남아 있음을 보여준다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-18-am.mp3" length="1711152" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-18-am</guid>
+      <pubDate>Wed, 18 Nov 2026 10:50:00 +0900</pubDate>
+      <itunes:duration>285</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/17(화) AI 수요 의심에 코스피 5,000선 붕괴</title>
       <description>미국 국채금리와 유가가 내렸는데도 반도체가 5% 넘게 급락했습니다. 시장이 할인율보다 AI 투자 수요 자체의 하향 가능성에 값을 매기기 시작했고, 한국에서는 외국인의 대형 반도체 매도로 코스피가 9개월 만에 5,000선을 내줬습니다. 엔비디아 실적과 앤트로픽 상장이 이어지는 48시간 이벤트 구간, 미국 소매판매와 3분기 거장 매매까지 짚습니다.</description>
