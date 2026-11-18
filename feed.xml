@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Wed, 18 Nov 2026 21:01:24 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:52:44 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[린치] 11/18(수) 세일즈포스 — 우량</title>
+      <description>세일즈포스는 직원 한 명당 사용료를 받아 연 150억 달러의 영업현금을 버는 회사이고, 주가는 지난 5년 중 가장 낮은 이익 배수에 있다. 시장은 AI 에이전트가 그 '한 명'을 없애 과금 단위가 사라질 수 있다는 가설에 값을 매기고 있으며, 이야기가 성공하려면 사용량 과금이 줄어드는 좌석 수입보다 빨리 커져 인수분을 뺀 성장률이 두 자릿수로 돌아와야 한다. 함정은 빚으로 산 자사주가 만든 주당이익 성장, 인수에 기대는 매출, 회사 스스로 인정한 낮은 진입장벽이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-18-lynch.mp3" length="3682512" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-18-lynch</guid>
+      <pubDate>Wed, 18 Nov 2026 21:52:00 +0900</pubDate>
+      <itunes:duration>614</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/18(수) 엔비디아 안도에 코스피 5,000선 회복</title>
       <description>엔비디아가 매출과 가이던스 모두 예상을 넘기면서 AI 투자 급감 공포가 진정됐고 코스피는 하루 만에 5,000선을 되찾았다. 다만 반등은 기관이 주도했고 외국인은 반도체 일부만 다시 샀으며, 미국에서는 소프트웨어가 AI 대체 우려로 급락해 AI 안에서도 수혜와 피해가 갈렸다. 다음 시험대는 FOMC 의사록과 앤트로픽 공모가 확정·상장이다.</description>
