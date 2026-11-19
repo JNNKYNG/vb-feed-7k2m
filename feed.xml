@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:13:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:00:49 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/19(목) 한중 협상·반도체 반등에 코스피 5,100선</title>
+      <description>미국은 매파적 연준 의사록과 50bp 인상 주장으로 긴축 경계가 커졌지만, 시장은 긴축이 경기를 꺾을 것을 의식해 장기금리를 끌어내렸다. 한국은 한중 서비스·투자 협상 타결과 오후 반도체 반등으로 긴축 부담을 뒤집었지만 외국인 순매도는 이어졌다. AI 안에서는 엔비디아 하락과 앤트로픽 공모 흥행이 동시에 나타나며 자금조달 구조와 수익성으로 종목을 가르는 흐름이 굳어지고 있다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-19-pm.mp3" length="3208413" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-19-pm</guid>
+      <pubDate>Thu, 19 Nov 2026 21:00:00 +0900</pubDate>
+      <itunes:duration>535</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/19(목) 엔비디아 호실적에도 S&amp;P 5일째 하락</title>
       <description>엔비디아는 호실적에도 2.95% 내렸고 AMD·브로드컴은 올라 AI 반도체 안에서 차별화가 이어졌다. 나스닥은 0.42% 반등했지만 S&amp;P 500은 5거래일 연속 하락, 다우는 관리의료주 급락에 1.11% 밀렸다. 10월 FOMC 의사록은 추가 인상에 폭넓게 공감했고 AI 부채를 금융안정 위험으로 짚었으며, 원유·금·구리가 동반 급락했다.</description>
