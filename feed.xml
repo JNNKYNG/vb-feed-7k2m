@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Fri, 20 Nov 2026 21:53:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:09:09 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/20(금) 앤트로픽 실망·수출규제에 코스피 5,000 재붕괴</title>
+      <description>오늘 급락의 축은 AI 수요 붕괴가 아니라 AI 자금줄과 규제의 동시 압박이었다. 앤트로픽 상장이 기존 AI·반도체 자금을 흡수했고, 11/19 시행된 미 상무부 위탁생산 라이선스 규정이 실제 출하를 멈췄으며, 연준 내 50bp 인상론이 조달 비용을 끌어올렸다. 대형 투자은행들은 하락이 과도하다고 보면서도 2027년 쟁점을 설비투자 규모가 아닌 조달 구조로 옮겨 놓았다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-20-pm.mp3" length="3248928" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-20-pm</guid>
+      <pubDate>Fri, 20 Nov 2026 22:08:00 +0900</pubDate>
+      <itunes:duration>541</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[린치] 11/20(금) AMD — 경기순환</title>
       <description>AMD는 서버 칩에서 인텔을 밀어내고 AI 가속기에서 엔비디아의 거의 유일한 범용 대안으로 매출의 3분의 2를 데이터센터에서 번다. 이 이야기가 성공하려면 신형 가속기와 서버 랙이 대형 고객에게 계획대로 깔리고, 그 매출이 늘어난 재고와 장부 밖 약정을 소화할 만큼 현금으로 돌아와야 한다. 함정은 10년간 이익이 꾸준한 적 없는 경기순환 이력, 고객 워런트와 주식 인수에 따른 희석, 중국·동남아 수출 규제 노출이다.</description>
