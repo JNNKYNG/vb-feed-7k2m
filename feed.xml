@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Thu, 19 Nov 2026 21:00:49 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:53:45 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,24 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[린치] 11/20(금) AMD — 경기순환</title>
+      <description>AMD는 서버 칩에서 인텔을 밀어내고 AI 가속기에서 엔비디아의 거의 유일한 범용 대안으로 매출의 3분의 2를 데이터센터에서 번다. 이 이야기가 성공하려면 신형 가속기와 서버 랙이 대형 고객에게 계획대로 깔리고, 그 매출이 늘어난 재고와 장부 밖 약정을 소화할 만큼 현금으로 돌아와야 한다. 함정은 10년간 이익이 꾸준한 적 없는 경기순환 이력, 고객 워런트와 주식 인수에 따른 희석, 중국·동남아 수출 규제 노출이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-20-lynch.mp3" length="3874989" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-20-lynch</guid>
+      <pubDate>Fri, 20 Nov 2026 21:53:00 +0900</pubDate>
+      <itunes:duration>646</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[아침] 11/20(금) 앤트로픽 되밀림에 美 2%↓, 코스피 장중 −5.6%</title>
+      <description>미국 3대 지수가 2%대 하락하고 반도체지수가 2.4% 밀렸다. 앤트로픽이 상장 첫날 시초가 대비 13% 되밀리며 AI 투심 회복이 끊겼고, TSMC·삼성전자의 일부 중국향 출하 보류 보도와 연준의 인플레 경계가 겹쳤다. 금까지 14개월 저점으로 밀린 전방위 위험 축소 장세 속에 코스피는 장중 4,852(−5.56%)까지 급락했다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-20-am.mp3" length="1454976" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-20-am</guid>
+      <pubDate>Fri, 20 Nov 2026 15:05:00 +0900</pubDate>
+      <itunes:duration>242</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/19(목) 한중 협상·반도체 반등에 코스피 5,100선</title>
       <description>미국은 매파적 연준 의사록과 50bp 인상 주장으로 긴축 경계가 커졌지만, 시장은 긴축이 경기를 꺾을 것을 의식해 장기금리를 끌어내렸다. 한국은 한중 서비스·투자 협상 타결과 오후 반도체 반등으로 긴축 부담을 뒤집었지만 외국인 순매도는 이어졌다. AI 안에서는 엔비디아 하락과 앤트로픽 공모 흥행이 동시에 나타나며 자금조달 구조와 수익성으로 종목을 가르는 흐름이 굳어지고 있다.</description>
