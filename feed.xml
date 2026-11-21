@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Sat, 21 Nov 2026 14:48:05 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:51:31 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/21(토) AI 인프라 청산 한 주, 금까지 팔렸다</title>
+      <description>이번 주 매도의 진원은 거시 경기가 아니라 AI 인프라 자금 사슬이었다. 미국 급락 상위 종목은 채굴·AI 호스팅·데이터센터가 채웠고, 같은 날 발표된 소비 심리·소매판매 지표는 예상에 부합하거나 웃돌았다. 금·은·비트코인까지 주식과 함께 빠져 안전자산 이동보다 레버리지 청산에 가까운 국면이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-21-pm.mp3" length="3213072" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-21-pm</guid>
+      <pubDate>Sat, 21 Nov 2026 21:50:00 +0900</pubDate>
+      <itunes:duration>536</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/21(토) 엔비디아 회계조사 쇼크, 나스닥 −5.3%</title>
       <description>엔비디아가 SEC 회계 조사 보도로 약 14% 급락하며 나스닥이 5.28%, S&amp;P 500이 3.70% 떨어졌고 VIX는 35를 넘었다. 독일 DAX도 7% 넘게 하락해 AI 매도가 전 세계로 번진 반면, 미 10년물 금리는 4.94%로 내려오고 유가는 이란 리스크로 올랐다. 월요일 한국장은 반도체 공급망의 하방 갭 압력과 금리 하락이라는 완충 요인이 맞서는 구도다.</description>
