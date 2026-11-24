@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Mon, 23 Nov 2026 23:42:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:24:20 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/24(화) 황 복귀에 엔비디아 +31%, 나스닥 +6.5%</title>
+      <description>엔비디아 이사회가 젠슨 황의 CEO 복귀를 발표하며 엔비디아 +31%, 필라델피아 반도체 +14%, 나스닥 +6.5%로 AI 인프라 전반이 급반등했다. 반면 위험선호 회복이 12월 인상 기대를 키워 미 2년물이 4.70%로 오르고 달러지수는 19개월 고점권에 올랐다. 저녁 가설 판정, 오늘 한국장 체크리스트, 엔비디아 지배구조라는 꼬리위험을 짚는다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-24-am.mp3" length="1398528" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-24-am</guid>
+      <pubDate>Tue, 24 Nov 2026 13:35:00 +0900</pubDate>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[린치] 11/23(월) 마라 홀딩스 — 경기순환</title>
       <description>마라 홀딩스는 싼 전기로 비트코인을 캐는 원자재 생산자로, 이익이 비트코인 가격을 그대로 따라가며 지금 매출 배수는 5년 중 가장 낮다. 이야기가 성공하려면 비트코인이 전력원가 약 4만 달러 위에 머물고, 내년 상반기 안에 AI 임대 계약이 서명되며, 증자 없이 2027년 상환 요구를 넘겨야 한다. 선행 PER 3배는 비트코인 평가이익에 기댄 경기순환주의 착시일 수 있다.</description>
