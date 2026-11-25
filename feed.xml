@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Tue, 24 Nov 2026 13:24:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:53:58 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/25(수) AI주 하루 만에 재급락, 코스피 장중 −5%</title>
+      <description>황 복귀 안도 랠리 하루 만에 반도체 업종이 −7.2%, 마이크론 −11%로 다시 꺾였고 하락 사유는 경영 공백이 아니라 마진과 2028년 증설 지속성 우려로 바뀌었다. 다우는 헬스케어·소비재 강세로 5만 선을 회복하고 소비자신뢰지수는 103.3으로 예상을 크게 웃돌아 거시는 견조했다. 코스피는 점심 무렵 4,733(−5.46%)으로 전일 반등을 거의 되돌리는 중이다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-25-am.mp3" length="1629648" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-25-am</guid>
+      <pubDate>Wed, 25 Nov 2026 12:58:00 +0900</pubDate>
+      <itunes:duration>272</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[아침] 11/24(화) 황 복귀에 엔비디아 +31%, 나스닥 +6.5%</title>
       <description>엔비디아 이사회가 젠슨 황의 CEO 복귀를 발표하며 엔비디아 +31%, 필라델피아 반도체 +14%, 나스닥 +6.5%로 AI 인프라 전반이 급반등했다. 반면 위험선호 회복이 12월 인상 기대를 키워 미 2년물이 4.70%로 오르고 달러지수는 19개월 고점권에 올랐다. 저녁 가설 판정, 오늘 한국장 체크리스트, 엔비디아 지배구조라는 꼬리위험을 짚는다.</description>
