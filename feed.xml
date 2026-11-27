@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Fri, 27 Nov 2026 21:55:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:07:16 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[저녁] 11/27(금) 증안펀드 기대에 코스피 +4.3%·코스닥 +8.1%</title>
+      <description>코스피 +4.34%, 코스닥 +8.13% 급반등은 실적이 아니라 증안펀드 가동·증액 기대와 급락 뒤 저가 매수가 만든 장이며, 외국인 매수는 삼성전자·SK하이닉스에 약 73%가 몰렸지만 지수선물은 순매도했습니다. 반도체 주가보다 다음 주 AI 데이터센터 업체의 45억 달러 대출 수요와 조달금리가 AI 신용 우려를 가를 변수입니다. AI가 실제로 줄인 것은 정해진 스펙을 코드로 옮기는 구현뿐이고 투자를 정당화할 광범위한 생산성 향상은 아직 확인되지 않았다는 시각도 함께 짚습니다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-27-pm.mp3" length="3433341" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-27-pm</guid>
+      <pubDate>Fri, 27 Nov 2026 22:06:00 +0900</pubDate>
+      <itunes:duration>572</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[딥다이브] 11/27(금) SK하이닉스 — 경기순환 · 드러켄밀러 역풍</title>
       <description>SK하이닉스는 AI 서버용 고급 메모리를 가장 먼저 만드는 회사이고, 분기 이익률 80%와 순현금 98조 원이 그 이익이 실제 현금이라는 걸 보여 준다. 그런데 3주 사이 주가가 20% 빠진 이유는 지금 이익이 아니라 2028년 이익 하향이었다. 선행 PER 2배는 가장 싼 값이 아니라 시장이 정점을 선언한 값일 수 있다 — 다음 질문은 가격·재고·증설의 방향이다.</description>
