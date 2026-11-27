@@ -5,7 +5,7 @@
     <link>https://jnnkyng.github.io/vb-feed-7k2m/</link>
     <language>ko</language>
     <description>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</description>
-    <lastBuildDate>Thu, 26 Nov 2026 23:07:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:57:21 +0900</lastBuildDate>
     <atom:link href="https://jnnkyng.github.io/vb-feed-7k2m/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Claude</itunes:author>
     <itunes:summary>매일 아침 08:30·저녁 20:50, 월·수·금 밤 린치 딥다이브 — KST 자동 생성되는 한국어 투자 브리핑. 분석·관찰이며 투자 권유가 아님</itunes:summary>
@@ -15,6 +15,15 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>[아침] 11/27(금) 美 휴장 속 코스피 +3.4%·코스닥 +6.3% 반등</title>
+      <description>미국은 추수감사절로 현물 주식과 국채가 모두 쉬었고, 지수 CFD는 S&amp;P 500 +0.89%, 나스닥 100 +1.86%로 위험선호 회복 쪽으로 기울었다. 오늘 한국장은 장중 코스피 4,873(+3.43%), 코스닥 696.89(+6.28%)로 SK하이닉스와 삼성전자가 4%대 오르며 반등했다. AI 효과가 구현 단계에 머문다는 현장 관찰이 AI 투자 회수 논쟁에 무게를 더했다.</description>
+      <enclosure url="https://jnnkyng.github.io/vb-feed-7k2m/episodes/2026-11-27-am.mp3" length="1407456" type="audio/mpeg" />
+      <guid isPermaLink="false">2026-11-27-am</guid>
+      <pubDate>Fri, 27 Nov 2026 12:58:00 +0900</pubDate>
+      <itunes:duration>235</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[저녁] 11/26(목) 한은 인상·화웨이 HBM에 코스피 반등 +0.29% 그쳐</title>
       <description>전날 6% 급락 뒤 코스피 반등은 기관이 만들었고 외국인은 현물 매도를 이어갔지만 SK하이닉스만은 3천억 원 넘게 순매수했다. 한국은행은 25bp 인상과 함께 2027년 성장률 전망을 4.1%로 올려 추가 긴축 경계를 키웠다. 메모리 주가가 이미 가혹한 하방을 반영했다는 바닥론과, 데이터센터 대출 할인 매각·엔비디아 신용등급 관찰 같은 신용 시장의 경계 신호가 엇갈린다.</description>
